@@ -43,11 +43,10 @@ const Home: NextPage = () => {
               data-aos-once="true"
             >
               <h1 className="text-white text-[26px] md:text-[60px] font-[700]">
-                Discover and sell latest NFT’s with your finger snap.
-                </h1>
+               Discover and Interact with latest nfts on Solana.
+              </h1>
               <div className="flex flex-col md:flex-row ">
                 <div className="mx-auto md:mx-0 mt-[20px] cursor-pointer">
-
                   <AppStore />
                 </div>
                 <div className='md:ml-[80px] mt-[20px] mx-auto cursor-pointer'>
@@ -55,7 +54,6 @@ const Home: NextPage = () => {
 
                 </div>
               </div>
-
             </div>
             <div className="w-1/2 my-auto  ml-[-10px] w-[350px] h-[400px] md:w-[837px] md:h-[782px] overflow-hidden relative  flex flex-end" data-aos="fade-down"
               data-aos-delay="50"
